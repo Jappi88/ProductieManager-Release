@@ -4,7 +4,7 @@
     <mandatory mode="0">true</mandatory>
     <runadmin>true</runadmin>
     <checksum algorithm="SHA256">f18278545079dae131f9dadeb116e7d587b29288f4ce422fa01f01eff5bf5ab8</checksum>
-    <url>https://github.com/Jappi88/TijdregistratieV5/releases/download/3.7.3.5/ProductieManagerSetup-3.7.3.5.exe</url>
+    <url>https://github.com/Jappi88/ProductieManager-Release/releases/download/3.7.3.5/ProductieManagerSetup-3.7.3.5.exe</url>
 <changelog>
 [3.7.3.5]
 * Verbetering bij het wijzigen van werkplek namen.
@@ -110,3 +110,4 @@ Dit kan aan/uit worden gezet in de Instellingen/Misc.
 </changelog>
 
 </item>
+
