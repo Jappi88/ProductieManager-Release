@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>3.7.3.5</version>
+    <mandatory mode="0">true</mandatory>
+    <runadmin>true</runadmin>
+    <checksum algorithm="SHA256">9928f105135bc8b349aa47fe80dde36675e63e5949709fe22915d5fcb420b50d</checksum>
+    <url>https://github.com/Jappi88/TijdregistratieV5/releases/download/3.7.3.5/ProductieManagerSetup-3.7.3.5.exe</url>
+<changelog>
+[3.7.3.5]
+* Verbetering bij het wijzigen van werkplek namen.
+* Toegevoegd bestaande Verpakkingsinstructies bij het aanmaken van een nieuwe productie.
+* Toegevoegd Document ontwerper, voor het ontwerpen van documenten of labels.
+* Aantal andere verbeteringen.
+
+[3.7.3.4]
+* Klantinformatie toegevoegd aan de weergave in het Productievenster.
+* Klantinformatievelden toegevoegd die gebruikt kunnen worden voor weergave, sortering en filtering in iedere productielijst.
+* Mogelijkheid toegevoegd om werkplekken op non-actief te zetten in het werkplekbeheer, wat ervoor zorgt dat deze niet meer gebruikt kunnen worden voor productie.
+* Diverse andere verbeteringen doorgevoerd.
+
+[3.7.3.3]
+* D365 Contextmenu uitgebreid met "Goedkeuren" en "Behoeften".
+Kan worden aangepast in de ERPBrowser Instellingen / D365 Extensie
+* Aantal verbeteringen in D365 Extensie.
+* Toegevoegd Barcode in de Productievenster.
+Kan worden aangepast in de Instellingen / Productie.
+* Aantal andere verbeteringen.
+
+[3.7.3.2]
+* Fout opgelost bij het printen van Productieformulieren.
+* Fout opgelost in het bijhouden van personeel werkroosters.
+* Aantal andere foutoplossingen en verbeteringen.
+
+[3.7.3.1]
+* Aantal verbeteringen en foutoplossingen in de ERPBrowser.
+
+[3.7.3.0]
+* Enkele verbeteringen in de ErpBrowser.
+* Aantal andere verbeteringen.
+
+[3.7.2.9]
+* Fout opgelost bij het synchroniseren van gegevens.
+
+[3.7.2.8]
+* Aantal verbeteringen en fout oplossingen.
+
+[3.7.2.7]
+* Toegevoegd de mogelijkheid om verpakkingsinstructies bij te houden en producties te voorzien van de instructies als die ontbreken.
+* Verbetering in de Visma Extensie voor het goedkeuren van verzoeken.
+
+[3.7.2.6]
+* Meerdere verbeteringen en foutoplossingen.
+
+[3.7.2.5]
+* Toegevoegd de mogelijkheid om de thema van de Startpagina in de ERPBrowser te wijzigen.
+* Toegevoegd Tile opties in de ERPBrowser Startpagina om een Tile te wijzigen of te verwijderen.
+* Enkele verbeteringen in de Bijlage Browser.
+* Toegevoegd de mogelijkheid om achtergronden van de startpagina te wijzigen naar afbeeldingen of zelfgemaakt html animaties.
+* Aantal andere verbeteren en foutoplossingen.
+
+[3.7.2.4]
+* Toegevoegd Startpagina in de ERPBrowser waar je gemakkelijk naar alle bookmarks kan navigeren, zoeken of naar een andere website gaan.
+* Toegevoegd de mogelijkheid om de ERPBrowser direct in de ProductieManager te tonen zonder een nieuwe venster te openen.
+Dit kan aan/uit worden gezet in de Instellingen/Misc.
+* Verbetering bij het laden van nieuwe ERPBrowser pagina's.
+* Fout opgelost in de Visma extensie.
+* Fout opgelost bij het tonen van de Productie volgorde.
+* Aantal andere verbeteringen en foutoplossingen.
+
+[3.7.2.3]
+* Toegevoegd Visma Extensie in de ERPBrowser.
+* Aantal andere verbeteringen en foutoplossingen.
+
+[3.7.2.2]
+* Toegevoegd de mogelijkheid om Producties uit D365 te updaten, aanvankelijk van de toegevoegde velden in D365.
+* Toegevoegd geavanceerde manier bij het wijzigen van Productie Gegegevens.
+* Aantal verbeteringen bij het berekenen van de aantallen per uur.
+* Hoop andere verbeteringen en foutoplossingen.
+
+[3.7.2.1]
+* Meerdere verbeteringen bij het beheren en reorganiseren van ERPBookmark(groepen) in de ERPBrowser Instellingen.
+* Toegevoegd de mogelijkheid om bij elke ERPBookmarkGroep te wijzigen of je wilt dat iedere bookmark een aparte venster opent.
+* Toegevoegd de mogelijkheid om D365 Extensie opties onafhankelijk aan of uit te zetten.
+* Meerdere verbeteringen en foutoplossingen in de D365 Extensie.
+* Verbetering bij het zoeken van een VaultModel (Werktekening).
+* Verschillende andere verbeteringen en foutoplossingen.
+
+
+[3.7.2.0]
+* Mogelijkheid toegevoegd om producties in D365 via het rechtermuisknopmenu naar de volgende fase te zetten, zoals ramen, plannen of vrijgeven.
+* Mogelijkheid toegevoegd om producties in D365 via het rechtermuisknopmenu te openen in de ProductieManager, indien deze bestaat.
+* Mogelijkheid toegevoegd om producties via artikelnummer in D365 via het rechtermuisknopmenu te zoeken.
+* Mogelijkheid toegevoegd om Dynamics365 Extensie aan/uit te zetten in de ERPBrowser.
+* Verbeterde detectie en aanpassing van het rechtermuisknopmenu in D365 F&amp;O.
+* Fout opgelost bij het toevoegen van nieuwe producties vanuit een aangemaakte structuurconfiguratie.
+* Fout opgelost bij het juist wijzigen van het vensterformaat vanuit een geminimaliseerde toestand.
+* Fout opgelost bij het weergeven van de Tiles in het StartScherm.
+* Fout opgelost bij het updaten van de knoppen in de Werkplaatsindeling a.d.h.v. de gebruiker-niveau.
+* Diverse verbeteringen en foutoplossingen in de ERPBrowser.
+* Verschillende andere verbeteringen en foutoplossingen.
+
+
+[3.7.1.9]
+* Fout opgelost bij het berekenen van de juiste werkdag a.d.h.v. een werkrooster.
+* Meerdere verbeteringen en foutoplossingen in het beheren van de ERPBrowser Bookmarks.
+* Toegevoegd de mogelijkheid om de naam van een Bookmark folder te wijzigen.
+* Toegevoegd de mogelijkheid om een Bookmark folder te verwijderen.
+* Toegevoegd de mogelijkheid om Werktekeningen makkelijk op te zoeken in de ERPBrowser.
+* Aantal andere verbeteringen.
+</changelog>
+</item>
