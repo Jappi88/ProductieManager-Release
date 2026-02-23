@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.7.3.5</version>
+    <version>3.7.3.6</version>
     <mandatory mode="0">true</mandatory>
     <runadmin>true</runadmin>
     <checksum algorithm="SHA256">f18278545079dae131f9dadeb116e7d587b29288f4ce422fa01f01eff5bf5ab8</checksum>
@@ -113,5 +113,6 @@ Dit kan aan/uit worden gezet in de Instellingen/Misc.
 </changelog>
 
 </item>
+
 
 
