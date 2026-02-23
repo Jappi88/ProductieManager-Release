@@ -3,7 +3,7 @@
     <version>3.7.3.5</version>
     <mandatory mode="0">true</mandatory>
     <runadmin>true</runadmin>
-    <checksum algorithm="SHA256">9928f105135bc8b349aa47fe80dde36675e63e5949709fe22915d5fcb420b50d</checksum>
+    <checksum algorithm="SHA256">f18278545079dae131f9dadeb116e7d587b29288f4ce422fa01f01eff5bf5ab8</checksum>
     <url>https://github.com/Jappi88/TijdregistratieV5/releases/download/3.7.3.5/ProductieManagerSetup-3.7.3.5.exe</url>
 <changelog>
 [3.7.3.5]
@@ -108,4 +108,5 @@ Dit kan aan/uit worden gezet in de Instellingen/Misc.
 * Toegevoegd de mogelijkheid om Werktekeningen makkelijk op te zoeken in de ERPBrowser.
 * Aantal andere verbeteringen.
 </changelog>
+
 </item>
